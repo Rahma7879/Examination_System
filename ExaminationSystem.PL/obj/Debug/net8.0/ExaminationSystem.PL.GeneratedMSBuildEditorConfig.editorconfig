@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ExaminationSystem.PL
+build_property.RootNamespace = ExaminationSystem.PL
+build_property.ProjectDir = C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.PL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Course/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXRDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Course/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Course/InsertCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluc2VydENvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/CurrentExam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VycmVudEV4YW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Department/DisplayDepartments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEaXNwbGF5RGVwYXJ0bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Department/GetDepartmentById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxHZXREZXBhcnRtZW50QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Exam/getAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxnZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Exam/getExamById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxnZXRFeGFtQnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/GenerateExam/GenerateExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhdGVFeGFtXEdlbmVyYXRlRXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Instructor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Instructor/getAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxnZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Instructor/GetInstructorById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxHZXRJbnN0cnVjdG9yQnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Instructor/InsertInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbnNlcnRJbnN0cnVjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/PreExam/ExamDisabled.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlRXhhbVxFeGFtRGlzYWJsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/PreExam/PreExamView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlRXhhbVxQcmVFeGFtVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/PreExam/StudentProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlRXhhbVxTdHVkZW50UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/ExamQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEV4YW1RdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/ExamStudentAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEV4YW1TdHVkZW50QW5zd2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/ExamStudentAnswerView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEV4YW1TdHVkZW50QW5zd2VyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/StudentCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFN0dWRlbnRDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/StudentGrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFN0dWRlbnRHcmFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Report/StudentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFN0dWRlbnRJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Result/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Admin/_JSDataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9KU0RhdGFUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Admin/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Admin/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Admin/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/StudentLayout/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0dWRlbnRMYXlvdXRcX1N0dWRlbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Student/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0dWRlbnRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Student/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0dWRlbnRcX05hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/Student/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0dWRlbnRcX1NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Student/getAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxnZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Student/getById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxnZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Student/InsertStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbnNlcnRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/Examination_System/Examination_System/Examination_System/Examination_System/ExaminationSystem.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sww72of2f8

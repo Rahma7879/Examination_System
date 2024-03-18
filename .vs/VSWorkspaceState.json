@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExaminationSystem.DAL",
+    "\\ExaminationSystem.DAL\\Entities",
+    "\\ExaminationSystem.PL",
+    "\\ExaminationSystem.PL\\Controllers",
+    "\\ExaminationSystem.PL\\Controllers\\Admin",
+    "\\ExaminationSystem.PL\\Views",
+    "\\ExaminationSystem.PL\\Views\\Shared",
+    "\\ExaminationSystem.PL\\Views\\Shared\\Admin"
+  ],
+  "PreviewInSolutionExplorer": false
+}

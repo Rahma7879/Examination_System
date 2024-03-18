@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\currentexam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\currentexam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\controllers\\currentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\controllers\\currentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCAE4B2-76E4-4351-96A4-ABEE72D54C80}|ExaminationSystem.DAL\\ExaminationSystem.DAL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCAE4B2-76E4-4351-96A4-ABEE72D54C80}|ExaminationSystem.DAL\\ExaminationSystem.DAL.csproj|solutionrelative:examinationsystem.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|c:\\users\\hp\\desktop\\examination_system\\examination_system\\examination_system\\examination_system\\examinationsystem.pl\\views\\shared\\student\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\shared\\student\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\examinationsystem.pl\\views\\preexam\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\preexam\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\examinationsystem.pl\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\examinationsystem.pl\\views\\student\\insertstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\student\\insertstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\examinationsystem.pl\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\examinationsystem.pl\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E51466-0AEF-47F4-B1D9-D3AF05079DAE}|ExaminationSystem.PL\\ExaminationSystem.PL.csproj|solutionrelative:examinationsystem.pl\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:20:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\CurrentExam\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\CurrentExam\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\CurrentExam\\Index.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\CurrentExam\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:02:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentExamController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Controllers\\CurrentExamController.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Controllers\\CurrentExamController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Controllers\\CurrentExamController.cs",
+              "RelativeToolTip": "ExaminationSystem.PL\\Controllers\\CurrentExamController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:53:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T22:55:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T22:54:47.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T22:54:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExaminationSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:49:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\appsettings.json",
+              "RelativeToolTip": "ExaminationSystem.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T22:48:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Shared\\Student\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Shared\\Student\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Shared\\Student\\_Layout.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Shared\\Student\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:48:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:37:24.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsertStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\InsertStudent.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Student\\InsertStudent.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\InsertStudent.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Student\\InsertStudent.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:37:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "getById.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\getById.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Student\\getById.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\getById.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Student\\getById.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:36:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "getAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\getAll.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\Student\\getAll.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\Student\\getAll.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\Student\\getAll.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:37:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\PreExam\\StudentProfile.cshtml",
+              "RelativeDocumentMoniker": "ExaminationSystem.PL\\Views\\PreExam\\StudentProfile.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Examination_System\\Examination_System\\Examination_System\\Examination_System\\ExaminationSystem.PL\\Views\\PreExam\\StudentProfile.cshtml",
+              "RelativeToolTip": "ExaminationSystem.PL\\Views\\PreExam\\StudentProfile.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:36:12.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

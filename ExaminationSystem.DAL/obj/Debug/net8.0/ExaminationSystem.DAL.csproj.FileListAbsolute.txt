@@ -1,0 +1,89 @@
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+C:\Users\hikal\OneDrive\Desktop\ExaminationSystem\ExaminationSystem.PL\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.sourcelink.json
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+C:\Users\Amira\Desktop\MVC Project\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.sourcelink.json
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+D:\ITI\MVC\FinalProject\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.sourcelink.json
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+C:\Users\hikal\OneDrive\Desktop\test 4\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.sourcelink.json
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+D:\ITI Courses and Tasks\Alexandria\MVC\New folder\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.deps.json
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.runtimeconfig.json
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\bin\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.AssemblyInfo.cs
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.sourcelink.json
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.dll
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\refint\ExaminationSystem.DAL.dll
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.pdb
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ExaminationSystem.DAL.genruntimeconfig.cache
+C:\Users\hp\Desktop\Examination_System\Examination_System\Examination_System\Examination_System\ExaminationSystem.DAL\obj\Debug\net8.0\ref\ExaminationSystem.DAL.dll
